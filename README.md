@@ -14,5 +14,3 @@
 </ul>
 
 <hr>
-
-<b>Frontend Code must be placed in the /public directory</b>
