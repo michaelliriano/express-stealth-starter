@@ -6,7 +6,6 @@
 <b>Steps to Run...</b>
 
 <ul>
-  <li>Git pull</li>
   <li>Run "npm install"</li>
   <li>Go to the db folder, and inside of db.js, line 4, update your uri string to your mongodb connection</li>
   <li>Run "redis-server" to start Redis Client</li>
